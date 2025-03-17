@@ -12,6 +12,7 @@ DOMAIN-SUFFIX,native-instruments.com
 DOMAIN-SUFFIX,ikmultimedia.com
 DOMAIN-SUFFIX,missav.live
 DOMAIN-SUFFIX,missav.ws
+DOMAIN-SUFFIX,fosshub.com
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
