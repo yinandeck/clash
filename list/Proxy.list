@@ -11,6 +11,7 @@ DOMAIN-SUFFIX,uaudio.com
 DOMAIN-SUFFIX,native-instruments.com
 DOMAIN-SUFFIX,ikmultimedia.com
 DOMAIN-SUFFIX,missav.live
+DOMAIN-SUFFIX,missav.ws
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
